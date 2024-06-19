@@ -1,5 +1,1 @@
-function badCode() {
-    
-};
-
-badCode();
+import './style.css'; 
